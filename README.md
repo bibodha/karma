@@ -1,4 +1,0 @@
-karma
-=====
-
-karma with requirejs
